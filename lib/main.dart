@@ -10,6 +10,8 @@ pi = 180
 0.5 => 180 degrees
 1.0 => 360 degrees
 
+wraping with animationbuilder
+
 */
 import 'dart:math' show pi;
 
